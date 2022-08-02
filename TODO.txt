@@ -1,0 +1,10 @@
+
+https://alvinalexander.com/blog/post/jfc-swing/how-determine-get-screen-size-java-swing-app/
+
+-Once we hit the gameOver screen menu, ask for the user to input a username and save the username to display on highscores. This will have to be locally or databased
+
+-Create an enum for game states, Menu, Game, GameOver, Hiscores
+
+-Add images for the "food"
+
+-Snake image (Render it, so it grows += Have a head then body parts)
